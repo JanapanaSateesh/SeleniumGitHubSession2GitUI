@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-02T18:32:13 IST" name="Default suite" finished-at="2023-12-02T18:33:29 IST" duration-ms="76102">
+    <groups>
+    </groups>
+    <test started-at="2023-12-02T18:32:13 IST" name="Default test" finished-at="2023-12-02T18:33:29 IST" duration-ms="76102">
+      <class name="com.testcases.DemoQaFeatures">
+        <test-method is-config="true" signature="startExtent()[pri:0, instance:com.testcases.DemoQaFeatures@5e600dd5]" started-at="2023-12-02T18:32:13 IST" name="startExtent" finished-at="2023-12-02T18:32:13 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.DemoQaFeatures@5e600dd5]" started-at="2023-12-02T18:32:13 IST" name="setUp" finished-at="2023-12-02T18:32:53 IST" duration-ms="39729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="elementsTC_001()[pri:0, instance:com.testcases.DemoQaFeatures@5e600dd5]" started-at="2023-12-02T18:32:53 IST" name="elementsTC_001" finished-at="2023-12-02T18:33:06 IST" duration-ms="12863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsTC_001 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testcases.DemoQaFeatures@5e600dd5]" started-at="2023-12-02T18:33:06 IST" name="tearDown" finished-at="2023-12-02T18:33:06 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.DemoQaFeatures@5e600dd5]" started-at="2023-12-02T18:33:06 IST" name="setUp" finished-at="2023-12-02T18:33:19 IST" duration-ms="13180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="elementsTC_002()[pri:0, instance:com.testcases.DemoQaFeatures@5e600dd5]" started-at="2023-12-02T18:33:19 IST" name="elementsTC_002" finished-at="2023-12-02T18:33:29 IST" duration-ms="9247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsTC_002 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testcases.DemoQaFeatures@5e600dd5]" started-at="2023-12-02T18:33:29 IST" name="tearDown" finished-at="2023-12-02T18:33:29 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endExtent()[pri:0, instance:com.testcases.DemoQaFeatures@5e600dd5]" started-at="2023-12-02T18:33:29 IST" name="endExtent" finished-at="2023-12-02T18:33:29 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtent -->
+      </class> <!-- com.testcases.DemoQaFeatures -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
