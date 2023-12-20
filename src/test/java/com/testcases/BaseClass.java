@@ -62,6 +62,7 @@ public class BaseClass {
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
+		//I am from git hub through UI
 
 	}
 	
